@@ -1,0 +1,24 @@
+{
+  "name": "beastbytes/country-php",
+  "type": "library",
+  "description": "PHP country factory",
+  "keywords": [
+    "country",
+    "ISO 3166"
+  ],
+  "license": "BSD-3-Clause",
+  "authors": [{
+    "name": "Chris Yates",
+    "email": "chris.l.yates@gmail.com"
+  }],
+  "minimum-stability": "dev",
+  "prefer-stable": true,
+  "require": {
+    "php": "^8.0"
+  },
+  "autoload": {
+    "psr-4": {
+      "BeastBytes\\Country_PHP\\": "src"
+    }
+  }
+}
