@@ -14,7 +14,8 @@
   "minimum-stability": "dev",
   "prefer-stable": true,
   "require": {
-    "php": "^8.0"
+    "php": "^8.0",
+    "beastbytes/country": "dev-master"
   },
   "autoload": {
     "psr-4": {
