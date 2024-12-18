@@ -2,7 +2,7 @@
 
 declare(strict_types=1);
 
-namespace BeastBytes\Country_PHP;
+namespace BeastBytes\Country\\Php;
 
 use BeastBytes\Country\Country;
 use BeastBytes\Country\CountryFactoryInterface;
