@@ -19,7 +19,7 @@
   },
   "autoload": {
     "psr-4": {
-      "BeastBytes\\Country_PHP\\": "src"
+      "BeastBytes\\Country\\Php\\": "src"
     }
   }
 }
