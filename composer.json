@@ -15,7 +15,7 @@
   "prefer-stable": true,
   "require": {
     "php": "^8.0",
-    "beastbytes/country": "dev-master"
+    "beastbytes/country": "dev-main"
   },
   "autoload": {
     "psr-4": {
