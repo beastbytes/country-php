@@ -21,5 +21,13 @@
     "psr-4": {
       "BeastBytes\\Country\\Php\\": "src"
     }
+  },
+  "extra": {
+    "config-plugin-options": {
+      "source-directory": "config"
+    },
+    "config-plugin": {
+      "di": "di.php"
+    }
   }
 }
