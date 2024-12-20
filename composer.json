@@ -1,7 +1,7 @@
 {
   "name": "beastbytes/country-php",
   "type": "library",
-  "description": "PHP country factory",
+  "description": "Country factory for PHP country data",
   "keywords": [
     "country",
     "ISO 3166"
